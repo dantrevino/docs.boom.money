@@ -1,7 +1,10 @@
-<script setup lang="ts">
+<script setup>
 const { page } = useContent()
 </script>
 
 <template>
-  <ContentRenderer :key="page._id" :value="page" />
+  <ClientOnly>
+
+    <ContentRenderer :key="page._id" :value="page" />
+  </ClientOnly>
 </template>

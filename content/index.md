@@ -3,6 +3,7 @@ title: Boom Wallet Basics
 description: Boom is built on the premise that the Stacks Bitcoin Layer 2 blockchain & sBTC make a more decentralized, non-custodial, trust minimized Bitcoin payment layer than the lightning network.
 draft: true
 navigation: true
+id: 1
 ---
 
 # The Problem

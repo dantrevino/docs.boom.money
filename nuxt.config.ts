@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   css: ["@/assets/custom.scss"],
-  modules: ["nuxt-quasar-ui", "@nuxt/content"],
+  modules: ["nuxt-quasar-ui", "@nuxt/content", "@nuxt/image"],
   content: {
     documentDriven: true,
   },

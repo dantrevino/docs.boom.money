@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@nuxt/content": "^2.12.1",
+    "@nuxt/image": "^1.6.0",
     "nuxt": "^3.5.3",
     "nuxt-quasar-ui": "^2.0.2",
     "sass": "^1.62.1"
