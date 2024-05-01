@@ -6,7 +6,9 @@ navigation: true
 id: 1
 ---
 
-# The Problem
+# Boom Wallet Basics
+
+## The Problem
 
 Bitcoin payments are frustrating.
 
@@ -14,7 +16,7 @@ We love Bitcoin. However, we know that using Bitcoin for small payments is not t
 
 <!--more-->
 
-### **1. Payments on Bitcoin’s Base Layer are slow and expensive.**
+### 1. Payments on Bitcoin’s Base Layer are slow and expensive.
 
 Bitcoin’s Base Layer has fundamental constraints that make Layer 1 Bitcoin payments slow and expensive.
 
@@ -32,21 +34,17 @@ However, we also recognize that the user experience is not ideal.
 
 The main drawbacks:
 
-| Challenge              | Details                                                                                       |
-| ---------------------- | --------------------------------------------------------------------------------------------- |
-| Liquidity Requirements | Users must lock up funds in channels, which might not be immediately intuitive or convenient. |
-
-Users may struggle to find well-funded nodes to route payments through and have difficulty keeping their own channels balanced to facilitate transactions. Rebalancing channels can be time-consuming and costly. |
-| Lightning Setup and Onboarding | Setting up a Lightning Network node is a complex and technical process (for most users).
-
-It requires users to manage things like funding channels, rebalancing, and monitoring node status. |
-| Channel Management | Managing channels for optimal performance and costs requires active maintenance. |
-| Network Capacity Limits | The Lightning Network can face capacity issues, limiting the size of payments that can be efficiently processed. |
-| Unreliable and slow performance | The Lightning Network is unreliable. Slow channel opening/closing times, nodes going offline causing disruptions, and difficulties with routing payments successfully, undermines the promised speed and efficiency of the Lightning Network. |
-| Interoperability | Compatibility between different Lightning implementations can be an issue, affecting payments and network growth. |
-| The Need to Be Online | Users need to be online to receive payments |
-| Default Custodial | Lightning companies default to custodial wallets |
-| Capital Inefficient | Lightning channels lock Bitcoin that cannot be used. |
+| Challenge                       | Details                                                                                                                                                                                                                                                                                                         |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Liquidity Requirements          | Users must lock up funds in channels, which might not be immediately intuitive or convenient. Users may struggle to find well-funded nodes to route payments through and have difficulty keeping their own channels balanced to facilitate transactions. Rebalancing channels can be time-consuming and costly. |
+| Lightning Setup and Onboarding  | Setting up a Lightning Network node is a complex and technical process (for most users). It requires users to manage things like funding channels, rebalancing, and monitoring node status.                                                                                                                     |
+| Channel Management              | Managing channels for optimal performance and costs requires active maintenance.                                                                                                                                                                                                                                |
+| Network Capacity Limits         | The Lightning Network can face capacity issues, limiting the size of payments that can be efficiently processed.                                                                                                                                                                                                |
+| Unreliable and slow performance | The Lightning Network can be unreliable. Slow channel opening/closing times, nodes going offline causing disruptions, and difficulties with routing payments successfully, undermines the promised speed and efficiency of the Lightning Network.                                                               |
+| Interoperability                | Compatibility between different Lightning implementations can be an issue, affecting payments and network growth.                                                                                                                                                                                               |
+| The Need to Be Online           | Users need to be online to receive payments. This often forces users to choose custodial, centralized services.                                                                                                                                                                                                 |
+| Default Custodial               | Most Lightning wallets default to custodial because asking users to run their own nodes, open their own channels, etc is too complicated.                                                                                                                                                                       |
+| Capital Inefficient             | Lightning channels lock Bitcoin that cannot be used.                                                                                                                                                                                                                                                            |
 
 These challenges mean Lightning is not the perfect option for Bitcoin payments.
 
