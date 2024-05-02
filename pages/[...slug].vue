@@ -3,8 +3,10 @@ const { page } = useContent()
 </script>
 
 <template>
-  <ClientOnly>
 
-    <ContentRenderer :key="page._id" :value="page" />
+  <ClientOnly>
+    <q-page padding>
+      <ContentRenderer :key="page._id" :value="page" />
+    </q-page>
   </ClientOnly>
 </template>
