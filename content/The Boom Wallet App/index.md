@@ -1,3 +1,11 @@
+---
+title: Boom Wallet
+description: Boom is revolutionizing Bitcoin payments by simplifying the user experience with an innovative open-source wallet
+draft: false
+navigation: true
+id: 2
+---
+
 # Boom Wallet Mobile App
 
 Boom is revolutionizing Bitcoin payments by simplifying the user experience with an innovative open-source wallet. At its core, Boom aims to make Bitcoin transactions more accessible and user-friendly, addressing the complexities that have historically hindered widespread adoption. By focusing on a streamlined interface and powerful features, Boom is poised to become a key player in the cryptocurrency ecosystem.
