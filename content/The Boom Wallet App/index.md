@@ -1,5 +1,21 @@
 # Boom Wallet Mobile App
 
-## Sending payments
+Boom is revolutionizing Bitcoin payments by simplifying the user experience with an innovative open-source wallet. At its core, Boom aims to make Bitcoin transactions more accessible and user-friendly, addressing the complexities that have historically hindered widespread adoption. By focusing on a streamlined interface and powerful features, Boom is poised to become a key player in the cryptocurrency ecosystem.
 
-## Requesting payments
+### Purpose and Vision
+
+Boom’s primary purpose is to bridge the gap between traditional financial systems and the decentralized world of Bitcoin. The wallet’s design focuses on ease of use, making it simple for anyone to manage their Bitcoin and Stacks tokens. Whether you are onboarding fiat currency or navigating the complexities of Bitcoin payment layers, Boom ensures a seamless experience. The integration of sBTC as the primary payment layer highlights Boom's commitment to leveraging advanced technologies to facilitate smooth transactions. This peg-in and peg-out mechanism allows users to effortlessly move their Bitcoin between different layers, enhancing liquidity and usability.
+
+### Key Features and Functionality
+
+One of Boom’s standout features is its support for fiat onboarding, which allows users to convert their traditional currency into Bitcoin with ease. This feature is crucial for new users who may find the direct acquisition of Bitcoin daunting. Additionally, Boom uses the Stacks blockchain's BNS (Blockchain Naming System) for user and merchant discovery, enabling straightforward, secure interactions without the need for complex addresses. Direct communication between users and merchants further simplifies the transaction process, fostering a more connected and efficient ecosystem.
+
+The wallet also provides comprehensive management tools for both Bitcoin and Stacks tokens, allowing users to transfer and track their assets effortlessly. Profile and contact management features support easy payments, ensuring that users can quickly send funds to their contacts without repeated address entries. This holistic approach to cryptocurrency management makes Boom not just a wallet, but a full-fledged financial tool.
+
+### Open Source and Future Roadmap
+
+Boom is committed to the open-source ethos, encouraging community participation in the development and enhancement of its platform. By making the wallet’s codebase open to the public, Boom invites developers to contribute to its ongoing improvement, ensuring that it evolves to meet the needs of its users. This approach not only fosters innovation but also builds trust within the community, as users can audit and verify the code themselves.
+
+Looking ahead, Boom plans to expand its feature set and improve its core functionalities. Future roadmap items include enhanced security features, additional fiat on-ramp options, and deeper integration with decentralized financial services. By continuously evolving and incorporating user feedback, Boom aims to remain at the forefront of Bitcoin payment solutions, driving broader adoption and making digital currency more accessible to all.
+
+Boom's dedication to user experience, combined with its robust feature set and open-source foundation, positions it as a transformative force in the cryptocurrency landscape. Whether you are a novice or an experienced user, Boom offers a comprehensive, user-friendly solution for managing and utilizing Bitcoin and Stacks tokens.
