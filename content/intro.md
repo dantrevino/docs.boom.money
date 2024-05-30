@@ -14,13 +14,13 @@ Bitcoin payments are frustrating. We love Bitcoin. However, we know that using B
 
 <!--more-->
 
-### 1. Payments on Bitcoin’s base layer are slow and expensive
+### Payments on Bitcoin’s base layer are slow and expensive
 
 Bitcoin’s Base Layer has fundamental constraints that make Layer 1 Bitcoin payments slow and expensive. Bitcoin’s 10 minute block times means fast transactions **are not possible.**
 
 Also, Bitcoin’s block size means there is a limit to the number of transactions that can be processed per day. We don’t believe Bitcoin will be (or should be) changed to make fast payment on the base layer possible.
 
-### 2. Lightning trade-offs
+### Lightning trade-offs
 
 Bitcoin’s Lightning Network is impressive technology with many benefits. Lightning was the right solution at the right time, and we hope builders continue to improve Lightning.
 
