@@ -1,6 +1,6 @@
 ---
 title: Intro to Boom Wallet
-description: Boom is built on the premise that the Stacks Bitcoin Layer 2 blockchain & sBTC make a more decentralized, non-custodial, trust minimized Bitcoin payment layer than the lightning network.
+description: Boom is built to leverage the Stacks Bitcoin Layer 2 blockchain & sBTC make a more decentralized, non-custodial, trust minimized Bitcoin payment layer than the lightning network.
 draft: true
 navigation: true
 id: 1
@@ -11,8 +11,6 @@ id: 1
 ## The problem
 
 Bitcoin payments are frustrating. We love Bitcoin. However, we know that using Bitcoin for small payments is not the best experience.
-
-<!--more-->
 
 ### Payments on Bitcoin’s base layer are slow and expensive
 
@@ -52,3 +50,9 @@ Compare this to the Stacks Bitcoin layer 2 wallet:
 With the coming Nakamoto hard-fork implementation, and the introduction of sBTC (Q4), Boom Wallet will be able to provide fast transactions and low fees with a 1:1 Bitcoin pegged token.
 
 Boom's focus on payments and payment infrastructure makes the dream of a decentralized Bitcoin economy a reality.
+
+### Frequently Asked Questions
+
+#### Why not support lightning?
+
+Lightning support is on our roadmap. Non-custodial lightning still has many issues, but with light clients, and other new options, it is improving every day. In the medium to long term, we believe sBTC offers a much smoother onboarding process with fewer trade-offs.
