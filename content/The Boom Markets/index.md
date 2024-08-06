@@ -1,5 +1,5 @@
 ---
-title: Boom Markets
+title: Boom Smart Shops
 description: Coming Soon
 draft: true
 navigation: true
